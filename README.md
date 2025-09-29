@@ -1,5 +1,9 @@
 # Project: Cookie Session Authentication
 
+## Thông tin sinh viên
+- **MSSV:** 22711971  
+- **Họ và tên:** Hà Mạnh Tiến  
+
 ## Mô tả
 Dự án này minh họa cơ chế đăng nhập, đăng ký, quản lý profile và đăng xuất sử dụng cookie & session authentication trong Node.js.
 
@@ -18,5 +22,6 @@ Dự án này minh họa cơ chế đăng nhập, đăng ký, quản lý profile
 ![Logout](public/results/logout.png)
 
 ## Cấu trúc thư mục
+
 
 
